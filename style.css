@@ -93,5 +93,5 @@ button:focus {
 .container .controls .up-button {
     transform: translateY(-100%);
     border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px ;
 }
